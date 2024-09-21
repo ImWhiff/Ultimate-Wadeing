@@ -3,11 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
   {
-        "id": "beta-1.1",
-        "releasedAt": 1726260714063,
+        "id": "beta-2.0",
+        "releasedAt": 1726892684121,
         "promotions": {
             "downloads": {
-                "generic": "https://drive.google.com/file/d/1ZjCIsBcKF_522QkblH66s_3Z-K7SGuTO/view?usp=sharing"
+                "generic": "https://drive.google.com/file/d/1FnEs89ZkFXt_-MLbzBAmc4WXokUy2WuT/view?usp=sharing"
             }
         }
     }
